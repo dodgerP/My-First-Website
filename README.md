@@ -1,6 +1,6 @@
 # First GitHub Project
 
-This is the first project that we've pushed to a remote repository using Git and GitHub
+It took a while to get used to but this is the first project that i've pushed to a remote repository using Git and GitHub.
 
 ## Technologies Used
 
